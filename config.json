@@ -1,0 +1,18 @@
+{
+    "cognitive_atlas_task_id": "trm_56674d6aa9faf",
+    "instructions":"Respond to the stimuli on the screen.",
+    "description":"Expfactory experiment",
+    "url":"https://www.github.com/expfactory-experiments/dietary-decision",
+    "contributors": [
+        "Ian Eisenberg",
+        "Zeynep Enkavi",
+        "Patrick Bissett",
+        "Vanessa Sochat",
+        "Russell Poldrack"
+    ],
+    "exp_id": "dietary-decision",
+    "name": "Dietary Decision Task",
+    "reference": ["http://www.rnl.caltech.edu/publications/pdf/hare2009.pdf"],
+    "template": "jspsych",
+    "time": 14
+}
